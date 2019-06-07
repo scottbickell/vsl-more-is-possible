@@ -109,6 +109,14 @@ th.large-6.first {
 th.large-6.last {
   padding-right: 16px; }
 
+th.large-10 {
+  width: 484px;
+  padding-left: 8px;
+  padding-right: 8px; }
+
+th.large-10.last {
+  padding-right: 16px; }
+
 th.large-12 {
   width: 584px;
   padding-left: 8px;
@@ -148,6 +156,8 @@ p.text-center {
   .small-float-center {
     margin: 0 auto !important;
     float: none !important;
+    text-align: center !important; }
+  .small-text-center {
     text-align: center !important; } }
 
 img.float-right {
@@ -307,6 +317,9 @@ h3 a, h3 a:visited, h3 a:active, h3 a:hover {
 
 .unsubscribe a:hover {
   color: #000000; }
+
+.signature img {
+  max-width: 200px; }
 
 .social-media {
   background: #f3f3f3; }
