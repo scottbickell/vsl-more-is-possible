@@ -387,4 +387,6 @@ th.large-6.address-cell {
   .product-category-icons {
     max-width: 120px; }
   h3 {
-    text-align: center; } }
+    text-align: center; }
+  .rep-photo {
+    width: 96px !important; } }
